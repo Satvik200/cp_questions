@@ -6,7 +6,7 @@ Given the coordinates of the target destination and the list of instructions tha
 
 ### Input
 
-The first line of the input contains the x_x_ and y_y_ integer coordinates of the target destination, where −50≤x≤50−50≤_x_≤50 and −50≤y≤50−50≤_y_≤50. The following line contains an integer n_n_ representing the number of instructions in the list, where 1≤n≤501≤_n_≤50. The remaining n_n_ lines each contain a single instruction. These instructions may be: “Left”, “Forward”, or “Right”.
+The first line of the input contains the x and y integer coordinates of the target destination, where `−50≤x≤50` and `−50≤y≤50`. The following line contains an integer n representing the number of instructions in the list, where `1≤n≤50`. The remaining n lines each contain a single instruction. These instructions may be: “Left”, “Forward”, or “Right”.
 
 ### Output
 
